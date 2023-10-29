@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+
+.container-fluid {
+  font-size: 17px;
+  font-family: "Lobster Two", cursive;
+  font-weight: bolder;
+}
+
+.navbar-toggler {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar-toggler:hover {
+  border: none;
+}
+.navbar-toggler {
+  border: 1px solid #ababab;
+}
+
+.navbar-toggler-icon {
+  font-size: 10px;
+}
+
+.nav-link {
+  color: #adadad;
+}
+.container-fluid {
+  background-color: #fafafa;
+}
+.bg-body-tertiary {
+  background-color: red;
+}
+
+#logo {
+  height: 50px;
+  width: 52px;
+}
+
+body {
+  margin-top: 0;
+}
+
+.row {
+  border: 1px solid red;
+  background-color: blue;
+}
+
+.alert,
+.alert-success {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  text-align: center;
+  margin: auto;
+  font-size: 13.5px;
+  font-family: "poppins";
+  font-weight: 1000;
+  border-radius: 0px;
+}
+
+#carouselExampleAutoplaying {
+  margin-top: 2px;
+}
+
+.rankBadge {
+  display: inline;
+  margin: 2px 10px;
+  font-family: "poppins";
+  font-weight: bolder;
+  font-size: 15px;
+}
+#liveToastBtn {
+  display: block;
+  margin: 15px 15px;
+  font-family: fantasy;
+  font-weight: 1000;
+  letter-spacing: 2.5px;
+  -webkit-text-stroke: 1px gold;
+  -webkit-text-fill-color: #490dff;
+}
