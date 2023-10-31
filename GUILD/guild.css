@@ -1,8 +1,7 @@
-
-  @import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap");
 
 table {
-  font-family:Arial;
+  font-family: Arial;
   font-size: 100%;
   white-space: nowrap;
   margin: 0;
@@ -28,7 +27,7 @@ table thead th {
 }
 table td {
   background: white;
-  padding: 5px 15px; 
+  padding: 5px 15px;
   text-align: center;
   font-size: 14px;
   font-family: sans-serif;
@@ -36,15 +35,11 @@ table td {
   color: #212121;
 }
 
-
-
-
 table thead th:first-child {
   position: sticky;
   left: 0;
   z-index: 2;
   box-shadow: 3px 0px 5px silver;
-  
 }
 
 table tbody th {
@@ -53,8 +48,7 @@ table tbody th {
   background: white;
   z-index: 1;
   box-shadow: 3px 0px 5px silver;
-   font-weight: 450;
-
+  font-weight: 450;
 }
 
 caption {
@@ -74,53 +68,49 @@ caption {
   outline: 0;
 }
 
-  
-a{
- text-decoration: none;
- font-weight: 100;
+a {
+  text-decoration: none;
+  font-weight: 100;
 }
 
-#insta{
-
-background: -webkit-linear-gradient(orangered, magenta);
+#insta {
+  background: -webkit-linear-gradient(orangered, magenta);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  
 }
-.GM{
-  color: gold ;
+.GM {
+  color: gold;
 }
 
-.master{
+.master {
   color: red;
 }
 
-td img{
+td img {
   width: 34px;
   height: 28px;
-
 }
-.diamond{
+.diamond {
   color: rebeccapurple;
 }
 
-.pt{
+.pt {
   color: blue;
 }
 
-.gold{
+.gold {
   color: goldenrod;
 }
-.silver{
+.silver {
   color: #7d7d7d;
 }
-.bronze{
-  color:brown;
+.bronze {
+  color: brown;
 }
 
-h1{
+h1 {
   text-align: center;
-  font-family: 'Lobster Two', cursive;
+  font-family: "Lobster Two", cursive;
   font-weight: 100;
   color: #1f1f1f;
   letter-spacing: 1px;
@@ -131,63 +121,56 @@ h1{
   border-bottom: 2px double #ababab;
   border-radius: 10px;
 }
-span img{
+span img {
   height: 50px;
   width: 52px;
- 
 }
 
-.insta{
-  
+.insta {
   color: orangered;
   font-size: 35px;
-background: -webkit-linear-gradient(orangered, magenta);
- -webkit-background-clip: text;
+  background: -webkit-linear-gradient(orangered, magenta);
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
- 
-  
 }
 
-.fb{
+.fb {
   font-size: 36px;
   color: dodgerblue;
 }
-.yt{
+.yt {
   font-size: 38px;
   color: red;
 }
 
-th,td{
+th,
+td {
   height: 33px;
 }
 
-.ukn{
+.ukn {
   color: gray;
-  
 }
 
-.inukn{
-    
+.inukn {
   color: gray;
   font-size: 35px;
-background: -webkit-linear-gradient(gray, gray);
- -webkit-background-clip: text;
+  background: -webkit-linear-gradient(gray, gray);
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
- 
-
 }
 
-.ri-home-office-fill{
+.ri-home-office-fill {
   color: black;
   font-size: 24px;
 }
 
-.ri-vip-line{
+.ri-vip-line {
   font-size: 20px;
   color: darkgoldenrod;
   margin: 1px 1px;
 }
-.er{
+.er {
   font-weight: 650;
   font-size: 15px;
 }
